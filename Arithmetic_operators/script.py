@@ -1,24 +1,24 @@
 # operators in python
 # Arithmetic operators
-# Add (+)
+# Addition (+)
 a : int = 4
 b : int = 5
 C = a + b
 print("Addition:", C)
 
-#sub (-)
+#subtraction (-)
 a : int = 7
 b : int = 9
 D = a - b
 print("Subtraction:", D)
 
-#Multiply (*)
+#Multiplication (*)
 a : int = 8
 b : int = 4
 E = a * b
 print("Multiplication:", E)
 
-#Divide (/)
+#Division (/)
 a : int = 10
 b : int = 5
 F = a / b
@@ -36,7 +36,7 @@ b : int = 2
 H = a ** b
 print("Exponentiation:", H)
 
-#floor division (//)
+#Floor division (//)
 a : int = 7
 b : int = 9
 I = a // b
